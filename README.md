@@ -7,7 +7,12 @@ Welcome to the Rocketseat Challenge 05 project repository! This project is part 
 # Table of Contents
 
 - [About Us](#about-us)
+- [User stories](#user-stories)
+  - [New users are looking to](#new-user-are-looking-to)
+  - [System admin is looking to](#the-system-admin-is-looking-to)
 - [Features](#features)
+- [Screenshots](#screenshots)
+  - [Mobile first](#mobile-first)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -23,19 +28,19 @@ At Space Cream Gelateria, we take you on a heavenly journey through the universe
 
 ## New user are looking to:
 
-As a user, I want to easily navigate the website to find information about the available gelato flavors, ingredients, and allergen information, so that I can make informed choices based on my preferences and dietary restrictions.
-As a user, I want to see visually appealing images of the gelato flavors, enticing me to visit the gelateria and try out different flavors.
-As a user, I want the option to create an account and save my favorite gelato flavors, so that I can easily reorder them in the future without going through the entire menu.
-As a user, I want to have a smooth and seamless online ordering experience, allowing me to customize my gelato order, choose pickup or delivery options, and make secure payments.
-As a user, I want to receive notifications or updates about new gelato flavors, seasonal specials, or promotions, so that I can stay informed and plan my visits to Space Cream accordingly.
-As a user, I want to read reviews and testimonials from other customers, helping me make decisions about which gelato flavors to try and providing assurance about the quality and taste of Space Cream's offerings.
-As a user, I want to easily share my gelato experiences on social media platforms, allowing me to showcase the delicious treats I enjoy at Space Cream and spread the word to my friends and followers.
+- As a user, I want to easily navigate the website to find information about the available gelato flavors, ingredients, and allergen information, so that I can make informed choices based on my preferences and dietary restrictions.
+- As a user, I want to see visually appealing images of the gelato flavors, enticing me to visit the gelateria and try out different flavors.
+- As a user, I want the option to create an account and save my favorite gelato flavors, so that I can easily reorder them in the future without going through the entire menu.
+- As a user, I want to have a smooth and seamless online ordering experience, allowing me to customize my gelato order, choose pickup or delivery options, and make secure payments.
+- As a user, I want to receive notifications or updates about new gelato flavors, seasonal specials, or promotions, so that I can stay informed and plan my visits to Space Cream accordingly.
+- As a user, I want to read reviews and testimonials from other customers, helping me make decisions about which gelato flavors to try and providing assurance about the quality and taste of Space Cream's offerings.
+- As a user, I want to easily share my gelato experiences on social media platforms, allowing me to showcase the delicious treats I enjoy at Space Cream and spread the word to my friends and followers.
 
 ## The system admin is looking to:
 
-As a system admin, I want to have an easy-to-use content management system, enabling me to update the gelato flavors, prices, and other information on the website in real-time.
-As a system admin, I want to receive online orders and notifications in a timely manner, ensuring efficient processing and delivery of the gelato to customers.
-As a system admin, I want to access analytics and reports about sales, popular gelato flavors, and customer preferences, helping me make informed decisions and optimize the website's offerings.
+- As a system admin, I want to have an easy-to-use content management system, enabling me to update the gelato flavors, prices, and other information on the website in real-time.
+- As a system admin, I want to receive online orders and notifications in a timely manner, ensuring efficient processing and delivery of the gelato to customers.
+- As a system admin, I want to access analytics and reports about sales, popular gelato flavors, and customer preferences, helping me make informed decisions and optimize the website's offerings.
 
 # Features
 
@@ -50,10 +55,6 @@ As a system admin, I want to access analytics and reports about sales, popular g
 ## Mobile first
 
 ![Mobile first](https://i.imgur.com/XMwH7FN.png)
-
-## Animation Effect
-
-![Animation effect](./docs/sample.gif)
 
 ## Installation
 
