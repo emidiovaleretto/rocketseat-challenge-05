@@ -71,4 +71,34 @@ main p {
   position: absolute;
   top: 16px;
   right: 16px;
+
+  animation: topdown 0.7s 0.5s backwards;
+}
+
+.image-card img {
+  animation: bottomtop 0.7s;
+}
+
+@keyframes topdown {
+  0% {
+    transform: translateY(-15px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes bottomtop {
+  0% {
+    transform: translateY(15px);
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
