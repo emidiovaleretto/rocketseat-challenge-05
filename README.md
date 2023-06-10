@@ -2,7 +2,11 @@
 
 # Rocketseat Challenge 05
 
-Welcome to the Rocketseat Challenge 05 project repository! This project is part of the Rocketseat Explorer course and focuses on creating a Gelateria Italiana website called "Space Cream".
+Welcome to the Rocketseat Challenge 05 project repository! This is a single-page project developed as part of the Rocketseat Explorer course and focuses on creating a Gelateria Italiana website called "Space Cream".
+
+# Live Demo
+
+Check out the live demo of the project <a href="https://emidiovaleretto.github.io/rocketseat-challenge-05/" target="_blank" rel="noopener noreferrer">here</a>.
 
 # Table of Contents
 
