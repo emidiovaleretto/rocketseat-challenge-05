@@ -6,7 +6,7 @@ Welcome to the Rocketseat Space Cream project repository! This is a single-page 
 
 # Live Demo
 
-Check out the live demo of the project <a href="https://emidiovaleretto.github.io/rocketseat-challenge-05/" target="_blank" rel="noopener noreferrer">here</a>.
+Check out the live demo of the project <a href="https://emidiovaleretto.github.io/rocketseat-space-cream/" target="_blank" rel="noopener noreferrer">here</a>.
 
 # Table of Contents
 
