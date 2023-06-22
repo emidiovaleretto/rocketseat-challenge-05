@@ -1,8 +1,8 @@
 ![Explorer](https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F74dec54c-b44a-4c7e-adbd-f8a069b98b7b%2FCapa_Notion_-_Explorer.png?table=block&id=19dfbff7-b19c-47c5-9a28-6afa37d42543&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=2000&userId=&cache=v2)
 
-# Rocketseat Challenge 05
+# Rocketseat Space Cream
 
-Welcome to the Rocketseat Challenge 05 project repository! This is a single-page project developed as part of the Rocketseat Explorer course and focuses on creating a Gelateria Italiana website called "Space Cream".
+Welcome to the Rocketseat Space Cream project repository! This is a single-page project developed as part of the Rocketseat Explorer course and focuses on creating a Gelateria Italiana website called "Space Cream".
 
 # Live Demo
 
@@ -64,8 +64,8 @@ At Space Cream Gelateria, we take you on a heavenly journey through the universe
 
 To set up the Rocketseat Challenge 05 project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-challenge-05.git`
-2. Navigate to the project directory: `cd rocketseat-challenge-05`
+1. Clone the repository: `git clone https://github.com/emidiovaleretto/rocketseat-space-cream.git`
+2. Navigate to the project directory: `cd rocketseat-space-cream`
 
 That's it! You're ready to explore the project.
 
@@ -82,7 +82,7 @@ That's it! You're ready to explore the project.
 
 ## Contributing
 
-Contributions to the Rocketseat Challenge 05 project are welcome. To contribute, please follow these steps:
+Contributions to the Rocketseat Space Cream project are welcome. To contribute, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature`.
